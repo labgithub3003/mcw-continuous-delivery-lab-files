@@ -1,6 +1,6 @@
-$studentsuffix = "Your 3 letter abbreviation here"
+$studentsuffix = "574204"
 $resourcegroupName = "fabmedical-rg-" + $studentsuffix
-$location1 = "westeurope"
+$location1 = "PUT CORRECT region"
 $appInsights = "fabmedicalai-" + $studentsuffix
 
 az extension add --name application-insights
